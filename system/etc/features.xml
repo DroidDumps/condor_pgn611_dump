@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+功能全集
+===========================================
+安全芯片   key="security_chip"
+专线通话   key="private_line"
+支付保护   key="payment_protection"
+安全十防   key="ten_security"
+商务秘书   key="business_secretary"
+语音控制   key="voice_control"
+出国助手   key="abroad_assistant"
+微信分身   key="wechat_avatar"
+屏幕分屏   key="split_screen"
+名片扫描   key="card_scan"
+应用分身   key="app_avatar"
+Ami换机    key="ami_ghost"
+双摄拍照   key="double_camera"
+柔光自拍   key="lambency_selfie"
+视频美颜   key="video_beauty"
+ami图钉    key="ami_mark"
+双微信     key="double_wechat"
+双QQ       key="double_qq"
+安全指纹   key="security_fingerprint"
+应用锁     key="app_lock"
+智能相册   key="smart_albums"
+
+===========================================
+说明：项目上需要什么功能，就在上面的功能全集中找到对应的key，按照顺序配置在下面
+-->
+<functions>
+    <function key="lambency_selfie" />
+    <function key="video_beauty" />
+    <function key="security_fingerprint" />
+    <!--Gionee <GN_Oveasea_Bug> <guanxw> <20161216> add for #47002 beign-->
+    <function key="ami_ghost" />
+    <function key="anti_virus" />
+    <function key="power_manager" />
+    <!--Gionee <GN_Oveasea_Bug> <guanxw> <20161216> add for #47002 end-->
+</functions>

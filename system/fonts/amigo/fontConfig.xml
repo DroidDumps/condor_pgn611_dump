@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fontInfo version="1">
+<!-- Default -->
+<fontInfo language="Default" fontname="Default Font" fontfile="DroidSansFallbackFull.ttf"/>
+<fontInfo language="Default" fontname="HY QingKongTi" fontfile="HYQingKongTiJ.ttf"/>
+<fontInfo language="Default" fontname="HY KaiTi" fontfile="hyc1gjm.ttf"/>
+<fontInfo language="Default" fontname="HY ZhongDengXian" fontfile="hyg2gjm.ttf"/>
+<fontInfo language="Default" fontname="HY ShuaiXianTi" fontfile="HYShuaiXianTiW.ttf"/>
+<fontInfo language="Default" fontname="HY QiHei" fontfile="HYQiHei-50S.otf"/>
+
+<!-- ZH -->
+<fontInfo language="ZH" fontname="默认字体" fontfile="DroidSansFallbackFull.ttf"/>
+<fontInfo language="ZH" fontname="汉仪晴空体" fontfile="HYQingKongTiJ.ttf"/>
+<fontInfo language="ZH" fontname="汉仪楷体" fontfile="hyc1gjm.ttf"/>
+<fontInfo language="ZH" fontname="汉仪中等线" fontfile="hyg2gjm.ttf"/>
+<fontInfo language="ZH" fontname="汉仪帅线" fontfile="HYShuaiXianTiW.ttf"/>
+<fontInfo language="ZH" fontname="汉仪旗黑体" fontfile="HYQiHei-50S.otf"/>
+
+<!-- GU -->
+<fontInfo language="GU" fontname="Default Font" fontfile="DroidSansFallbackFull.ttf"/>
+<fontInfo language="GU" fontname="Brook" fontfile="GU_Brook.ttf"/>
+<fontInfo language="GU" fontname="Brush" fontfile="GU_Brush.ttf"/>
+<fontInfo language="GU" fontname="Snow" fontfile="GU_Snow.ttf"/>
+<fontInfo language="GU" fontname="Star" fontfile="GU_Star.ttf"/>
+<fontInfo language="GU" fontname="Time" fontfile="GU_Time.ttf"/>
+<fontInfo language="GU" fontname="Years" fontfile="GU_Years.ttf"/>
+
+<!-- KN -->
+<fontInfo language="KN" fontname="Default Font" fontfile="DroidSansFallbackFull.ttf"/>
+<fontInfo language="KN" fontname="Fat" fontfile="KN_Fat.ttf"/>
+<fontInfo language="KN" fontname="Hedgehog" fontfile="KN_Hedgehog.ttf"/>
+<fontInfo language="KN" fontname="Shark" fontfile="KN_Shark.ttf"/>
+<fontInfo language="KN" fontname="Sky" fontfile="KN_Sky.ttf"/>
+<fontInfo language="KN" fontname="Swallow" fontfile="KN_Swallow.ttf"/>
+<fontInfo language="KN" fontname="Tonsil" fontfile="KN_Tonsil.ttf"/>
+
+<!-- MR -->
+<fontInfo language="MR" fontname="Default Font" fontfile="DroidSansFallbackFull.ttf"/>
+<fontInfo language="MR" fontname="Cattle" fontfile="MR_Cattle.ttf"/>
+<fontInfo language="MR" fontname="City" fontfile="MR_City.ttf"/>
+<fontInfo language="MR" fontname="Rainbow" fontfile="MR_Rainbow.ttf"/>
+<fontInfo language="MR" fontname="Rough" fontfile="MR_Rough.ttf"/>
+<fontInfo language="MR" fontname="Sea" fontfile="MR_Sea.ttf"/>
+<fontInfo language="MR" fontname="Tomato" fontfile="MR_Tomato.ttf"/>
+
+<!-- ML -->
+<fontInfo language="ML" fontname="Default Font" fontfile="DroidSansFallbackFull.ttf"/>
+<fontInfo language="ML" fontname="Drizzle" fontfile="ML_Drizzle.ttf"/>
+<fontInfo language="ML" fontname="Grass" fontfile="ML_Grass.ttf"/>
+<fontInfo language="ML" fontname="Hazy" fontfile="ML_Hazy.ttf"/>
+<fontInfo language="ML" fontname="Ice" fontfile="ML_Ice.ttf"/>
+<fontInfo language="ML" fontname="Mushroom" fontfile="ML_Mushroom.ttf"/>
+<fontInfo language="ML" fontname="Simples" fontfile="ML_Simple.ttf"/>
+
+<!-- BN -->
+<fontInfo language="BN" fontname="Default Font" fontfile="DroidSansFallbackFull.ttf"/>
+<fontInfo language="BN" fontname="Ekushey Godhuli" fontfile="BN_Ekushey_Godhuli_Normal.ttf"/>
+<fontInfo language="BN" fontname="Ekushey Punarbhaba" fontfile="BN_Ekushey_Punarbhaba_Normal.ttf"/>
+<fontInfo language="BN" fontname="Likhan" fontfile="BN_Likhan.ttf"/>
+<fontInfo language="BN" fontname="Mukti Narrow" fontfile="BN_Mukti_Narrow.ttf"/>
+<fontInfo language="BN" fontname="SolaimanLipi" fontfile="BN_SolaimanLipi.ttf"/>
+
+<!-- PA -->
+<fontInfo language="PA" fontname="Default Font" fontfile="DroidSansFallbackFull.ttf"/>
+<fontInfo language="PA" fontname="Dark" fontfile="PA_Dark.ttf"/>
+<fontInfo language="PA" fontname="Fall" fontfile="PA_Fall.ttf"/>
+<fontInfo language="PA" fontname="Obediently" fontfile="PA_Obediently.ttf"/>
+<fontInfo language="PA" fontname="River" fontfile="PA_River.ttf"/>
+<fontInfo language="PA" fontname="Saucy" fontfile="PA_Saucy.ttf"/>
+<fontInfo language="PA" fontname="Spring" fontfile="PA_Spring.ttf"/>
+
+<!-- TE -->
+<fontInfo language="TE" fontname="Default Font" fontfile="DroidSansFallbackFull.ttf"/>
+<fontInfo language="TE" fontname="Flowery" fontfile="TE_Flowery.ttf"/>
+<fontInfo language="TE" fontname="Fresh" fontfile="TE_Fresh.ttf"/>
+<fontInfo language="TE" fontname="Plantain" fontfile="TE_Plantain.ttf"/>
+<fontInfo language="TE" fontname="Popular" fontfile="TE_Popular.ttf"/>
+<fontInfo language="TE" fontname="Rice" fontfile="TE_Rice.ttf"/>
+<fontInfo language="TE" fontname="Sun" fontfile="TE_Sun.ttf"/>
+
+<!-- TA -->
+<fontInfo language="TA" fontname="Default Font" fontfile="DroidSansFallbackFull.ttf"/>
+<fontInfo language="TA" fontname="Bull" fontfile="TA_Bull.ttf"/>
+<fontInfo language="TA" fontname="Elegant" fontfile="TA_Elegant.ttf"/>
+<fontInfo language="TA" fontname="Glass" fontfile="TA_Glass.ttf"/>
+<fontInfo language="TA" fontname="Moon" fontfile="TA_Moon.ttf"/>
+<fontInfo language="TA" fontname="MorningGlory" fontfile="TA_MorningGlory.ttf"/>
+<fontInfo language="TA" fontname="WarmSun" fontfile="TA_WarmSun.ttf"/>
+
+<!-- HI -->
+<fontInfo language="HI" fontname="Default Font" fontfile="DroidSansFallbackFull.ttf"/>
+<fontInfo language="HI" fontname="Datura" fontfile="HI_Datura.ttf"/>
+<fontInfo language="HI" fontname="Jasmine" fontfile="HI_Jasmine.ttf"/>
+<fontInfo language="HI" fontname="Mimosa" fontfile="HI_Mimosa.ttf"/>
+<fontInfo language="HI" fontname="Oleander" fontfile="HI_Oleander.ttf"/>
+<fontInfo language="HI" fontname="Rosemary" fontfile="HI_Rosemary.ttf"/>
+
+</fontInfo>
+

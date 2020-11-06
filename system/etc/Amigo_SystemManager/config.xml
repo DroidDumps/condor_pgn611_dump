@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projects>
+    <SWW1609A>
+        <battery_capacity>4010</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>3600</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>500</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>377</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>255</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>8.5</current_in_supermode> <!--极致省电下的待机电流-->
+        <current_per_brightness>0.84</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>170</zero_ten_time>
+        <ten_twenty_time>119</ten_twenty_time>
+        <twenty_thirty_time>60</twenty_thirty_time>
+        <thirty_forty_time>61</thirty_forty_time>
+        <forty_fifty_time>62</forty_fifty_time>
+        <fifty_sixty_time>63</fifty_sixty_time>
+        <sixty_seventy_time>65</sixty_seventy_time>
+        <seventy_eight_time>62</seventy_eight_time>
+        <eight_ninety_time>65</eight_ninety_time>
+        <ninety_hundred_time>78</ninety_hundred_time>
+    </SWW1609A>
+    <SW17W05A>
+        <battery_capacity>4000</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>1000</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>500</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>306</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>255</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>7.7</current_in_supermode> <!--极致省电下的待机电流-->
+        <current_per_brightness>0.84</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>55</zero_ten_time>
+        <ten_twenty_time>53</ten_twenty_time>
+        <twenty_thirty_time>60</twenty_thirty_time>
+        <thirty_forty_time>58</thirty_forty_time>
+        <forty_fifty_time>55</forty_fifty_time>
+        <fifty_sixty_time>60</fifty_sixty_time>
+        <sixty_seventy_time>63</sixty_seventy_time>
+        <seventy_eight_time>65</seventy_eight_time>
+        <eight_ninety_time>60</eight_ninety_time>
+        <ninety_hundred_time>75</ninety_hundred_time>
+    </SW17W05A>
+    <WBL7519A>
+        <battery_capacity>3150</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>2000</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>450</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>363</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>255</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>5.3</current_in_supermode> <!--极致省电下的待机电流-->
+        <current_per_brightness>0.84</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>55</zero_ten_time>
+        <ten_twenty_time>53</ten_twenty_time>
+        <twenty_thirty_time>60</twenty_thirty_time>
+        <thirty_forty_time>58</thirty_forty_time>
+        <forty_fifty_time>55</forty_fifty_time>
+        <fifty_sixty_time>60</fifty_sixty_time>
+        <sixty_seventy_time>63</sixty_seventy_time>
+        <seventy_eight_time>65</seventy_eight_time>
+        <eight_ninety_time>60</eight_ninety_time>
+        <ninety_hundred_time>75</ninety_hundred_time>
+    </WBL7519A>
+    <SWW1617A>
+        <battery_capacity>4550</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>3200</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>500</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>330</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>255</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>4.7</current_in_supermode> <!--极致省电下的待机电流-->
+        <current_per_brightness>0.83</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>68</zero_ten_time>
+        <ten_twenty_time>65</ten_twenty_time>
+        <twenty_thirty_time>65</twenty_thirty_time>
+        <thirty_forty_time>64</thirty_forty_time>
+        <forty_fifty_time>65</forty_fifty_time>
+        <fifty_sixty_time>66</fifty_sixty_time>
+        <sixty_seventy_time>68</sixty_seventy_time>
+        <seventy_eight_time>70</seventy_eight_time>
+        <eight_ninety_time>72</eight_ninety_time>
+        <ninety_hundred_time>82</ninety_hundred_time>
+    </SWW1617A>
+    <SWW1618A>
+        <battery_capacity>4000</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>2000</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>500</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>330</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>255</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>14.5</current_in_supermode> <!--极致省电下的待机电流-->
+        <current_per_brightness>0.83</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>93</zero_ten_time>
+        <ten_twenty_time>68</ten_twenty_time>
+        <twenty_thirty_time>68</twenty_thirty_time>
+        <thirty_forty_time>70</thirty_forty_time>
+        <forty_fifty_time>69</forty_fifty_time>
+        <fifty_sixty_time>71</fifty_sixty_time>
+        <sixty_seventy_time>72</sixty_seventy_time>
+        <seventy_eight_time>74</seventy_eight_time>
+        <eight_ninety_time>75</eight_ninety_time>
+        <ninety_hundred_time>86</ninety_hundred_time>
+    </SWW1618A>
+    <SWW1627A>
+        <battery_capacity>4000</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>2000</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>500</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>330</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>255</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>14.6</current_in_supermode> <!--极致省电下的待机电流-->
+        <current_per_brightness>0.83</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>47</zero_ten_time>
+        <ten_twenty_time>67</ten_twenty_time>
+        <twenty_thirty_time>68</twenty_thirty_time>
+        <thirty_forty_time>69</thirty_forty_time>
+        <forty_fifty_time>70</forty_fifty_time>
+        <fifty_sixty_time>71</fifty_sixty_time>
+        <sixty_seventy_time>72</sixty_seventy_time>
+        <seventy_eight_time>74</seventy_eight_time>
+        <eight_ninety_time>79</eight_ninety_time>
+        <ninety_hundred_time>81</ninety_hundred_time>
+    </SWW1627A>
+    <SWW1631A>
+        <battery_capacity>3000</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>1500</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>500</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>290</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>255</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>5.1</current_in_supermode> <!--极致省电下的待机电流-->
+        <current_per_brightness>0.83</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>80</zero_ten_time>
+        <ten_twenty_time>59</ten_twenty_time>
+        <twenty_thirty_time>59</twenty_thirty_time>
+        <thirty_forty_time>60</thirty_forty_time>
+        <forty_fifty_time>61</forty_fifty_time>
+        <fifty_sixty_time>61</fifty_sixty_time>
+        <sixty_seventy_time>63</sixty_seventy_time>
+        <seventy_eight_time>65</seventy_eight_time>
+        <eight_ninety_time>66</eight_ninety_time>
+        <ninety_hundred_time>69</ninety_hundred_time>
+    </SWW1631A>
+    <SW17W09A>
+        <battery_capacity>1850</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>900</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>500</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>250</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>128</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>2.9</current_in_supermode> <!--极致省电下的待机电流-->
+        <current_per_brightness>0.83</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>56</zero_ten_time>
+        <ten_twenty_time>52</ten_twenty_time>
+        <twenty_thirty_time>34</twenty_thirty_time>
+        <thirty_forty_time>36</thirty_forty_time>
+        <forty_fifty_time>40</forty_fifty_time>
+        <fifty_sixty_time>45</fifty_sixty_time>
+        <sixty_seventy_time>41</sixty_seventy_time>
+        <seventy_eight_time>43</seventy_eight_time>
+        <eight_ninety_time>47</eight_ninety_time>
+        <ninety_hundred_time>40</ninety_hundred_time>
+    </SW17W09A>
+    <SW17W04A>
+        <battery_capacity>1850</battery_capacity>  <!-- 电池容量 -->
+        <ac_charge_current>900</ac_charge_current> <!-- 交流电充电电流值 -->
+        <usb_charge_current>500</usb_charge_current> <!-- USB充电电流值 -->
+        <original_current>250</original_current>  <!-- 出厂状态原始亮屏使用电流 -->
+        <original_brightness>128</original_brightness> <!-- 出厂状态默认屏幕亮度 -->
+        <current_in_supermode>2.9</current_in_supermode> <!--极致省电下的待机电流-->
+        <current_per_brightness>0.83</current_per_brightness> <!-- 每增加或减少单位亮度对电流值增加或减少值 -->
+        <green_background_weight>0.02</green_background_weight>
+        <system_animator_weight>0.005</system_animator_weight>
+        <darktheme_weight>0.07</darktheme_weight>
+        
+        <wifi_weight>0.07</wifi_weight>
+        <bt_weight>0.015</bt_weight>
+        <data_weight>0.07</data_weight>
+        <gps_weight>0.01</gps_weight>
+        <sync_weight>0.017</sync_weight>
+        <push_weight>0</push_weight>
+        <cpufreq_weight>0.05</cpufreq_weight>
+        <screen_save_weight>0.05</screen_save_weight>
+        <gestures_weight>0.01</gestures_weight>
+        <timeout_zero_weight>0.035</timeout_zero_weight>
+        <timeout_one_weight>0.032</timeout_one_weight>
+        <timeout_two_weight>0.03</timeout_two_weight>
+        <timeout_three_weight>0.025</timeout_three_weight>
+        <timeout_four_weight>0.015</timeout_four_weight>
+        <timeout_five_weight>0.01</timeout_five_weight>
+        <timeout_six_weight>0.005</timeout_six_weight>
+        <timeout_seven_weight>0</timeout_seven_weight>
+        
+        <zero_ten_time>56</zero_ten_time>
+        <ten_twenty_time>52</ten_twenty_time>
+        <twenty_thirty_time>34</twenty_thirty_time>
+        <thirty_forty_time>36</thirty_forty_time>
+        <forty_fifty_time>40</forty_fifty_time>
+        <fifty_sixty_time>45</fifty_sixty_time>
+        <sixty_seventy_time>41</sixty_seventy_time>
+        <seventy_eight_time>43</seventy_eight_time>
+        <eight_ninety_time>47</eight_ninety_time>
+        <ninety_hundred_time>40</ninety_hundred_time>
+    </SW17W04A>
+ </projects>
