@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+    <safelist>
+        <pkg>com.tencent.mm</pkg>
+        <pkg>com.eg.android.AlipayGphone</pkg>
+        <pkg>com.chinamworld.main</pkg>
+        <pkg>com.android.bankabc</pkg>
+        <pkg>com.rytong.bankps</pkg>
+        <pkg>com.icbc</pkg>
+        <pkg>com.chinamworld.bocmbci</pkg>
+        <pkg>com.hexin.plat.android</pkg>
+        <pkg>cmb.pb</pkg>
+        <pkg>com.pingan.lifeinsurance</pkg>
+        <pkg>com.bankcomm</pkg>
+        <pkg>com.tenpay.android</pkg>
+        <pkg>com.chinatelecom.bestpayclient</pkg>
+        <pkg>com.cmbchina.ccd.pluto.cmbActivity</pkg>
+        <pkg>com.android.dazhihui</pkg>
+        <pkg>com.magicpoint.mobile.bank</pkg>
+        <pkg>cn.com.cmbc.newmbank</pkg>
+        <pkg>com.wisentsoft.chinapost.cpmas.android</pkg>
+        <pkg>com.mobilex.ynrcbmobilebank</pkg>
+        <pkg>com.pingan.pabank.activity</pkg>
+        <pkg>com.ecitic.bank.mobile</pkg>
+        <pkg>com.cib.cibmb</pkg>
+        <pkg>cn.com.spdb.mobilebank.per</pkg>
+        <pkg>com.yitong.mbank</pkg>
+        <pkg>com.gionee.wallet</pkg>
+        <pkg>com.webank.wemoney</pkg>
+        <pkg>com.qianwang.qianbao</pkg>
+        <pkg>com.alibaba.wireless</pkg>
+        <pkg>com.icbc.im</pkg>
+        <pkg>com.yitong.zjrc.mbank.android</pkg>
+        <pkg>com.nxy.sc</pkg>
+        <pkg>com.paic.zhifu.wallet.activity</pkg>
+        <pkg>com.yitong.fjnx.mbank.android</pkg>
+        <pkg>com.rytong.bankgdb</pkg>
+        <pkg>com.nxy.gz</pkg>
+        <pkg>com.guosen.android</pkg>
+        <pkg>com.cn.froad.mobileplatform</pkg>
+        <pkg>gf.king.app</pkg>
+    </safelist>
+</config>
